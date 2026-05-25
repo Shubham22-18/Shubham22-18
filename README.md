@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Shubham Gouda 👋
 
-<!--
-**Shubham22-18/Shubham22-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech Data Science Student at SOA ITER
+- Interested in Python, Data Science, and AI
+- Currently learning DSA and Machine Learning
+- Open to internships and collaborative projects
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Git & GitHub
+- SQL
+- Data Structures
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Weather App
+- Expense Tracker
+- Student Management System
+- To-Do App
+- Number Guessing Game
+
+## Goals
+- Become a Data Scientist
+- Build AI projects
+- Get internship experience
+
+## Connect With Me
+- GitHub: https://github.com/Shubham22-18
+- LinkedIn: Add your LinkedIn link here
+
