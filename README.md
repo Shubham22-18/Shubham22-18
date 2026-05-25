@@ -27,5 +27,5 @@
 
 ## Connect With Me
 - GitHub: https://github.com/Shubham22-18
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn:(https://www.linkedin.com/in/shubham-gouda-a8a3a336b/?skipRedirect=true)
 
